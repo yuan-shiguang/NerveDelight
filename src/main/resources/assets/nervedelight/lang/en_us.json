@@ -1,0 +1,20 @@
+{
+    "item.nervedelight.concrete_spaghetti":"pasta with concrete No. 42",
+    "itemGroup.nervedelight":"Nerve Delight",
+    "effect.nervedelight.indigestion":"indigestion",
+    "effect.nervedelight.indigestion.description": "Can't eat any food",
+    "item.nervedelight.stargazy_pie":"stargazing pie",
+    "item.nervedelight.grilled_rebar":"grilled rebar",
+    "item.nervedelight.canned":"canned",
+    "item.nervedelight.fermented_herring": "fermented herring",
+    "message.nervedelight.indigestion_warning": "§cIndigestion You can't eat anything now!",
+    "block.nervedelight.fermentation_barrel": "fermentation barrel",
+    "item.nervedelight.fermentation_barrel": "fermentation barrel",
+    "tooltip.nervedelight.fermentation_barrel": "Right click to put in fish or sugar, take it out empty-handed",
+    "message.nervedelight.barrel_take": "Removed Item",
+    "message.nervedelight.barrel_empty": "The fermentation vat is empty",
+    "message.nervedelight.barrel_add": "%s has been put in",
+    "message.nervedelight.barrel_full": "Fermentation barrel already contains",
+    "item.nervedelight.fermentation_cod_slice": "Fermented cod fillet",
+    "item.nervedelight.fermentation_salmon_slice": "Fermented salmon fillet"
+}

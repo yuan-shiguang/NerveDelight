@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "nervedelight:fermentation_salmon_slice/nervedelight:fermentation_cod_slice"
+    },
+    {
+      "item": "farmersdelight:cabbage_leaf"
+    }
+  ],
+  "result": {
+    "item": "nervedelight:fermented_herring"
+  },
+  "container": {
+    "item": "nervedelight:canned"
+  },
+  "experience": 0.5,
+  "cookingtime": 400
+}

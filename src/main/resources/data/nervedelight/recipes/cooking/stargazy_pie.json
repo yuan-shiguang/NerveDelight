@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    }
+  ],
+  "result": {
+    "item": "nervedelight:stargazy_pie",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"     
+  },
+  "experience": 0.8,                 
+  "cookingtime": 400
+}

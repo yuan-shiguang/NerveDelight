@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SIS",
+      "SIS",
+      "SIS"
+    ],
+    "key": {
+      "I": {"item": "minecraft:iron_ingot"},
+      "S": {"item": "minecraft:sweet_berries"}
+    },
+    "result": {
+      "item": "nervedelight:grilled_rebar",
+      "count": 1
+    }
+  }
+  

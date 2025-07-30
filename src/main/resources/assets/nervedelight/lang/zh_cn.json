@@ -1,0 +1,19 @@
+{
+  "item.nervedelight.concrete_spaghetti": "42号混凝土拌意大利面",
+  "itemGroup.nervedelight": "神经乐事",
+  "effect.nervedelight.indigestion": "消化不良",
+  "item.nervedelight.stargazy_pie": "仰望星空派",
+  "item.nervedelight.grilled_rebar":"烤钢筋",
+  "item.nervedelight.canned":"空罐头",
+  "item.nervedelight.fermented_herring":"鲱鱼罐头",
+  "message.nervedelight.indigestion_warning": "§c消化不良 你暂时无法进食任何食物！",
+  "block.nervedelight.fermentation_barrel": "发酵桶",
+  "item.nervedelight.fermentation_barrel": "发酵桶",
+  "tooltip.nervedelight.fermentation_barrel": "右键放入鱼或糖，空手取出",
+  "item.nervedelight.fermentation_cod_slice": "发酵鳕鱼片",
+  "item.nervedelight.fermentation_salmon_slice": "发酵鲑鱼片",
+  "message.nervedelight.barrel_take":"已取出物品",
+  "message.nervedelight.barrel_empty": "发酵桶是空的",
+  "message.nervedelight.barrel_add":"已放入 %s",
+  "message.nervedelight.barrel_full":"发酵桶已有物品"
+}
